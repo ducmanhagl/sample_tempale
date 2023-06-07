@@ -1,29 +1,23 @@
 /* Header
 ------------------------------------------------------------*/
 .c-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    position: relative;
-    background: rgba(255, 255, 255, 0.9);
 }
 /* Main menu
 ------------------------------------------------------------*/
-.c-gnav {
-    ul {
-    }
+// .c-gnav {
+//     ul {
+//     }
 
-    li {
-        display: inline-block;
+//     li {
+//         display: inline-block;
 
-        + li {
-            margin-left: 20px;
-        }
-    }
+//         + li {
+//             margin-left: 20px;
+//         }
+//     }
 
-    a {
-        font-size: 1.6rem;
-        text-transform: capitalize;
-    }
-}
+//     a {
+//         font-size: 1.6rem;
+//         text-transform: capitalize;
+//     }
+// }

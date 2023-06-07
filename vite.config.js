@@ -100,7 +100,7 @@ module.exports = defineConfig(({ mode }) => {
 				},
 			}),
 			Linter({
-				errorOverlay: true,
+				errorOverlay: false,
 				htmlhint: {
 					files: ['src/**/*.{html,ejs}'],
 				},
